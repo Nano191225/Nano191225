@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nano191225&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano191225&langs_count=8&theme=transparent&layout=donut-vertical)](https://github.com/Nano191225/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nano191225)](https://github.com/Nano191225/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nano191225&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=fff,e86445,904e95&title_color=fff&text_color=fff&icon_color=fff)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano191225&langs_count=8&theme=transparent&bg_color=fff,e86445,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=donut-vertical)](https://github.com/Nano191225/github-readme-stats)<br>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Nano191225&theme=transparent&bg_color=fff,e86445,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact)](https://github.com/Nano191225/github-readme-stats)

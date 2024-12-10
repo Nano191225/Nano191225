@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🔭 I’m currently working on Unknown.
-- 🌱 I’m currently learning C++!
+- 🌱 I’m currently learning Rust!
 - 📫 How to reach me: [Twitter - @Nano191225](https://twitter.com/Nano191225)
 <br>
 

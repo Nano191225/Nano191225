@@ -9,10 +9,29 @@
 - 🔭 I’m currently working on Unknown.
 - 🌱 I’m currently learning Rust!
 - 📫 How to reach me: [Twitter - @Nano191225](https://twitter.com/Nano191225)
-<br>
+
+![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logoColor=white)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logoColor=white)
+![Svelte](https://img.shields.io/badge/Framework-Svelte-FF3E00?style=for-the-badge&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Runtime-NodeJS-339933?style=for-the-badge&logoColor=white)
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,jquery,react,next,bun,deno,mysql,nodejs,php,discordjs,python,git,github,figma,replit,cloudflare,,,md,bash,c,cs,arduino,raspberrypi,unity" />
+
+### 💻 Programming
+<img alt="programming languages" src="https://skillicons.dev/icons?theme=dark&i=ts,js,c,cs,php" />
+
+### 🌐 Web ...
+<img alt="web development" src="https://skillicons.dev/icons?theme=dark&perline=6&i=html,css,jquery,svelte,tailwind,react,next,nodejs,express,deno,bun,postgres" />
+
+### 🔧 IDE ...
+<img alt="development tools" src="https://skillicons.dev/icons?theme=dark&i=vscode,visualstudio,git,github,npm,pnpm,cloudflare,md" />
+
+### 💾 OS
+<img alt="operating systems" src="https://skillicons.dev/icons?theme=dark&i=windows,linux,arch,debian,ubuntu" />
+
+### 🎨 Hardwere & Design
+<img alt="hardware and design" src="https://skillicons.dev/icons?theme=dark&i=raspberrypi,arduino,figma,unity,autocad" />
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->

@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🔭 I’m currently working on Unknown.
-- 🌱 I’m currently learning Rust!
+- 🌱 I’m currently learning Security!
 - 📫 How to reach me: [Twitter - @Nano191225](https://twitter.com/Nano191225)
 
 ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logoColor=white)
